@@ -1,3 +1,4 @@
 function shout(string) {
-  retun string
+  retun 
+string.toUppercase()
 }
